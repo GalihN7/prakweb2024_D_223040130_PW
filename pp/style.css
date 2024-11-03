@@ -1,0 +1,46 @@
+body {
+  background-color: silver;
+}
+
+/* Index */
+img {
+  width: 100px;
+}
+
+table {
+  margin-bottom: 60px;
+}
+
+h2 {
+  margin: 30px auto;
+}
+
+td {
+  padding: 4px 6px;
+}
+
+a {
+  margin-bottom: 15px;
+}
+
+.add {
+  float: right;
+  margin: 15px auto;
+}
+
+.clear {
+  clear: both;
+}
+
+/* Update Tambah */
+.tombol {
+  margin: 40px auto;
+}
+
+form {
+  margin: 30px auto;
+}
+
+h3 {
+  margin: 20px auto;
+}
